@@ -108,3 +108,11 @@ th, td {
 tr:nth-child(even) {
     background-color: #f2f2f2;
 }
+
+.banner {
+    color: #FF8200;
+    font-size: 28px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px #000000;
+}
